@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NG tests">
+    <test name="NG">
+        <packages>
+            <package name="intercity.exception"/>
+            <package name="intercity.mapper"/>
+            <package name="intercity.rest"/>
+            <package name="intercity.service"/>
+            <package name="intercity.validation"/>
+        </packages>
+    </test>
+</suite>
